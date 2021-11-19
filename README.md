@@ -6,3 +6,7 @@ import os
 
 os.system("start https://github.com/GitbyteMaster")
 ```
+Here are My Stats:
+
+[![GitbyteMasters' GitHub stats](https://github-readme-stats.vercel.app/api?username=GitbyteMaster)]()
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GitbyteMaster)]()
