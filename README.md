@@ -1,12 +1,18 @@
-## GitbyteMaster
-Hi, I'm GitbyteMaster ✋. When I'm not playing around in block coding, I'm usually scripting in the Python programming language. The repository I work on the most is the Reverie programming language, powered by Python. I won't be able to reply to many very often, because I'm usually busy with this stuff or things outside of GitHub. Thank you for reading.
+<div align=center>
 
-```python
-import os
+![gm](https://user-images.githubusercontent.com/76265961/200094319-4f6ae2b4-a5b1-43ab-8f3d-2ad4e13de9bc.svg)
+---
+### Hey there! Welcome to my GitHub! 👋🏾
+</div>
 
-os.system("start https://github.com/GitbyteMaster")
-```
-Here are My Stats:
+Hey, you probably know my rather silly name, but I'm GitbyteMaster! I'm not the best programmer, (which you could find out), but I'm getting somewhere. A lot of the projects I start are for learning purposes, which is why I have a habit of creating repititive repositories. Here are some of my active projects:
 
-[![GitbyteMasters' GitHub stats](https://github-readme-stats.vercel.app/api?username=GitbyteMaster)]()
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GitbyteMaster)]()
+[The Omen Programming Language](https://github.com/GitbyteMaster/Omen-lang)
+
+Ari Antivirus (Not Published Yet)
+
+Project SORA (Not Pulished Yet)
+
+---
+
+### I'm also on [Scratch](https://scratch.mit.edu/G_bite_Masters), check that out!
