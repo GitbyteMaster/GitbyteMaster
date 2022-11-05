@@ -15,4 +15,4 @@ Project SORA (Not Pulished Yet)
 
 ---
 
-### I'm also on [Scratch](https://scratch.mit.edu/G_bite_Masters), check that out!
+### I'm also on [Scratch](https://scratch.mit.edu/users/G_bite_Masters), check that out!
