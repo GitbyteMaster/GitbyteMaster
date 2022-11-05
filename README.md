@@ -5,13 +5,7 @@
 ### Hey there! Welcome to my GitHub! 👋🏾
 </div>
 
-Hey, you probably know my rather silly name, but I'm GitbyteMaster! I'm not the best programmer, (which you could find out), but I'm getting somewhere. A lot of the projects I start are for learning purposes, which is why I have a habit of creating repititive repositories. Here are some of my active projects:
-
-[The Omen Programming Language](https://github.com/GitbyteMaster/Omen-lang)
-
-Ari Antivirus (Not Published Yet)
-
-Project SORA (Not Pulished Yet)
+Hey, you probably know my rather silly name, but I'm GitbyteMaster! I'm not the best programmer, (which you could find out), but I'm getting somewhere. A lot of the projects I start are for learning purposes, which is why I have a habit of creating repititive repositories. Some of my active projects are pinned below.
 
 ---
 
