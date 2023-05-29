@@ -5,7 +5,7 @@
 ### Hey there! Welcome to my GitHub! 👋🏾
 </div>
 
-Hey, you probably know my rather silly name, but I'm GitbyteMaster! I'm not the best programmer, (which you could find out), but I'm getting somewhere. A lot of the projects I start are for learning purposes, which is why I have a habit of creating repititive repositories. Some of my active projects are pinned below.
+Hey, you probably know my rather silly name, but I'm GitbyteMaster! I'm not the best Python dev, (which you could find out), but I'm getting somewhere. A lot of the projects I start are for learning purposes, which is why I have a habit of creating repititive repositories. Some of my active projects are pinned below.
 
 ---
 
