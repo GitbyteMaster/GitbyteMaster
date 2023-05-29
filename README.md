@@ -9,4 +9,4 @@ Hey, you probably know my rather silly name, but I'm GitbyteMaster! I'm not the 
 
 ---
 
-### I'm also on [Scratch](https://scratch.mit.edu/users/G_bite_Masters), check that out!
+### [Scratch](https://scratch.mit.edu/users/G_bite_Masters) | [Replit](https://replit.com/@GitbyteMaster)
